@@ -88,4 +88,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Ashima Tiwari - ashimatiwari013@gmail.com
 
-Project Link: [https://github.com/ashimatiwari13/portfolio](https://github.com/ashimatiwari13/portfolio)
+Live portfolio: https://ashimatiwari-portfolio.vercel.app
